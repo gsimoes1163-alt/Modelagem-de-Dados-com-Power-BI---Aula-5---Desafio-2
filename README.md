@@ -1,6 +1,6 @@
 # Modelagem-de-Dados-com-Power-BI---Aula-5---Desafio-2
 
-Processo de construção do seu diagrama:
+Processo de construção do diagrama:
 
 - Para o atendimento a esse desafio foi utilizada a tabela única de Financial Sample.
 - Foram criadas as tabelas dimensão e fato evidenciando um diagrama Star Schema, tais quais:
